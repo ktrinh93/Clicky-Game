@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "src": "./images/noun_Technology_232480.png",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "src": "./images/noun_Technology_1093778.png",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "src": "./images/noun_Technology_1262434.png",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "src": "./images/noun_Technology_1484631.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "src": "./images/noun_Technology_1484642.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "src": "./images/noun_Technology_1484643.png",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "src": "./images/noun_Technology_1715363.png",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "src": "./images/noun_Technology_1715365.png",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "src": "./images/noun_Technology_1921488.png",
+    "clicked": false
+  }
+]
